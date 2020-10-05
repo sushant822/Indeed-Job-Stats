@@ -4,6 +4,7 @@ We all use Indeed for our job search. It is one of the biggest job portal websit
 
 # <center>WARNING!</center>
 ### <center>Running this entire code could take a long time!</center>
+<hr>
 
 Let's start by asking the user which job title he wants search for. First, we create a variable called job_title_1 and store the user input in it
 
