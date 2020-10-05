@@ -1,8 +1,6 @@
 # Indeed-Job-Stats
 
-We all use Indeed for our job search. It is one of the biggest job portal website out there. I always wondered which cities in Canada
-
-I wrote this program so that it can scrape and analyze several jobs listed on Indeed.com or Indeed.ca in this case since I am in Canada and find the average salary of jobs. In addition to this, it also tells us which city in Canada has the maximum number of jobs and maximum salary. I have plotted all this using bar graph to make it visually easy to understand.
+We all use Indeed for our job search. It is one of the biggest job portal website out there. I always wondered which cities in Canada have the most number of jobs and what is the maximum salary for that position. So I decided to write this program that will take user input for the position he is interested in, search indeed, pull up results and store them in a data frame and display them visually. While writing this program, I faced several problems. Firstly, not all positions have salaries listed for them. Infact, very few of them do so. Secondly, The position for which salaries are listed have them in different formats. For instance, some might have them as hourly wage, some as annual salary, some as monthly etc. So the first challenge was to convert them all to one format. Then, the next thing to do was to take average of all the salaries and use them for the ones that don't have any salary listed.
 
 Let's start by asking the user which job title he wants search for. First, we create a variable called job_title_1 and store the user input in it
 
