@@ -1,6 +1,6 @@
 # Indeed-Job-Stats
 
-We all use Indeed for our job search. It is one of the biggest job portal website out there.
+We all use Indeed for our job search. It is one of the biggest job portal website out there. I always wondered which cities in Canada
 
 I wrote this program so that it can scrape and analyze several jobs listed on Indeed.com or Indeed.ca in this case since I am in Canada and find the average salary of jobs. In addition to this, it also tells us which city in Canada has the maximum number of jobs and maximum salary. I have plotted all this using bar graph to make it visually easy to understand.
 
