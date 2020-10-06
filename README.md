@@ -6,6 +6,12 @@ We all use Indeed for our job search. It is one of the biggest job portal websit
 ### <center>Running this entire code could take a long time!</center>
 <hr>
 
+If we look at Indeed's page, the address looks like:
+
+    https://ca.indeed.com/jobs?q=data+scientist&l=Calgary%2C+AB
+
+
+
 Let's start by asking the user which job title he wants search for. First, we create a variable called job_title_1 and store the user input in it
 
     job_title_1 = input("Enter the Job Title: ")
