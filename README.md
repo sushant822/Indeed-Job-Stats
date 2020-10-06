@@ -2,6 +2,7 @@
 
 We all use Indeed for our job search. It is one of the biggest job portal website out there. I always wondered which cities in Canada have the most number of jobs and what is the maximum salary for that position. So I decided to write this program that will take user input for the position he is interested in, search indeed, pull up results and store them in a data frame and display them visually. While writing this program, I faced several problems. Firstly, not all positions have salaries listed for them. Infact, very few of them do so. Secondly, The position for which salaries are listed have them in different formats. For instance, some might have them as hourly wage, some as annual salary, some as monthly etc. So the first challenge was to convert them all to one format. Then, the next thing to do was to take average of all the salaries and use them for the ones that don't have any salary listed.
 
+<hr>
 # <center>WARNING!</center>
 ### <center>Running this entire code could take a long time!</center>
 <hr>
@@ -51,6 +52,8 @@ Let's sort the rows that don't have any salary mentioned and save them in data_s
 
 Now let's bring together our newly formed dataset and save it as <b>data_sal_all</b> and rename the table header as <b>Title</b>, <b>Location</b>, <b>Company</b> and <b>Salary</b>
 
+![indeed-1](images/indeed-1.png)
+
 Now let's replace 'None' values with np.nan and change the data type of Salary to float
 
     data5a = data_sal_all_1.replace('None',np.nan, regex=True)
@@ -89,3 +92,4 @@ Merge this new data with the previous data and drop the column Location
     data2 = pd.concat([data1, sort_data_2], axis=1, sort=False)
     data3 = data2.drop(['Location'], axis=1)
 
+![indeed-4](images/indeed-4.png)
