@@ -10,7 +10,7 @@ If we look at Indeed's search page, the address looks like:
 
     https://ca.indeed.com/jobs?q=data+scientist&l=Calgary%2C+AB
 
-So we can substitute 'data+scientist' with user input. The job title has to be all lower case.
+So we can substitute 'data+scientist' with user input.
 
 Let's start by asking the user which job title he wants search for. First, we create a variable called job_title_1 and store the user input in it
 
@@ -39,7 +39,7 @@ Here we insert job_title_3 into our url using concatenate feature in python
 
 Now that we have the the url, let's write a function that will parse the url, extract the data and store it in a dataframe.
 
-In order to get a proper data set, we need to parse more than one page. So let's write the code to parse first 10 pages and store them in the same dataframe using pd.concat function.
+In order to get a proper data set, we need to parse more than one page. So we can use this function to parse first 10 pages and store them in the same dataframe using pd.concat function.
 
 Once we have the dataset, we can see that it has a lot of stuff that we don't need like \n, $ etc. So let's clean up the data.
 
