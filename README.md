@@ -19,7 +19,7 @@ Let's start by asking the user which job title he wants search for. First, we cr
 
 The way Indeed works is it takes the given user input, converts it to lower case and replaces the spaces with +. So we need to do the same.
 
-Let's convert the job title to lower case using .lower() method.
+Let's convert the job title to lower case using .lower() method. 
 
 Then, let's replace the spaces with + using .repalce() method.
 
