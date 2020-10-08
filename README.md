@@ -3,8 +3,10 @@
 We all use Indeed for our job search. It is one of the biggest job portal website out there. I always wondered which cities in Canada have the most number of jobs and what is the maximum salary for that position. So I decided to write this program that will take user input for the position he is interested in, search indeed, pull up results and store them in a data frame and display them visually. While writing this program, I faced several problems. Firstly, not all positions have salaries listed for them. Infact, very few of them do so. Secondly, The position for which salaries are listed have them in different formats. For instance, some might have them as hourly wage, some as annual salary, some as monthly etc. So the first challenge was to convert them all to one format. Then, the next thing to do was to take average of all the salaries and use them for the ones that don't have any salary listed.
 
 <hr>
+
 # WARNING!
 ### Running this entire code could take a long time!
+
 <hr>
 
 In order for this code to run, you would need to install the 'BeautifulSoup' package on your machiene.
