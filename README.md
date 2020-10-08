@@ -9,6 +9,8 @@ We all use Indeed for our job search. It is one of the biggest job portal websit
 
 In order for this code to run, you would need to install the 'BeautifulSoup' package on your machiene.
 
+    pip install BeautifulSoup
+
 If we look at Indeed's search page, the address looks like:
 
     https://ca.indeed.com/jobs?q=data+scientist&l=Calgary%2C+AB
