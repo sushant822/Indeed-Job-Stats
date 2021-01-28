@@ -4,13 +4,6 @@ We all use Indeed for our job search. It is one of the biggest job portal websit
 
 <hr>
 
-<div class="alert alert-danger">
-    <b>WARNING!!!</b>
-    
-Running this entire code could take a long time!<br>
-I have deliberately placed many time delays so that we don't inundated their servers with requests.
-</div>
-
 # WARNING!!!
 ### Running this entire code could take a long time!
 #### I have deliberately placed many time delays so that we don't inundated their servers with requests.
