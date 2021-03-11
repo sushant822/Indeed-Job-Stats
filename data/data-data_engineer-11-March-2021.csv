@@ -1,0 +1,156 @@
+Company,Location,Title,Salary
+Maple,Toronto ON,Analytics Engineer,90000
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+SettleMate Consultants,Toronto ON,Azure Synapse Analytics (DW Engineer,92500
+Coveo,"Montréal, QC",DataOps Engineer (Business Intelligence),92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON",Engineering Analyst - South Paint,92250
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,92250
+Linamar Corp,"Guelph, ON",Engineer - Fatigue Analyst (MGTC),92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Sonder,"Toronto, ON",BI Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+Sonder,"Toronto, ON",BI Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+Sonder,"Toronto, ON",BI Engineer,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+Sonder,"Toronto, ON",BI Engineer,92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+Sonder,"Toronto, ON",BI Engineer,92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Sonder,"Toronto, ON",BI Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+Sonder,"Toronto, ON",BI Engineer,92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+Sonder,"Toronto, ON",BI Engineer,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
+Sonder,"Toronto, ON",BI Engineer,92250
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,92250
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,92250
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),92250
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,92250
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,92250
+ACV Auctions,"Toronto, ON","Analytics Engineer, II",92250
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",92250
+ecobee,"Toronto, ON",Senior BI Engineer,92250
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",92250
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),92250
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,92250
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,92250
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",92250
