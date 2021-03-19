@@ -1,0 +1,154 @@
+Company,Location,Title,Salary
+Maple,Toronto ON,Analytics Engineer,90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON",Engineering Analyst - South Paint,90000
+AP Dynamics,"Calgary, AB",Field Vibration Analyst/Engineer,90000
+Cognizant Technology Solutions,"London, ON",ETL/BI Test Engineer,90000
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON","Analytics Engineer, III",90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Sonder,"Toronto, ON",BI Engineer,90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+ACV Auctions,"Toronto, ON","Analytics Engineer, III",90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Sonder,"Toronto, ON",BI Engineer,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,90000
+ACV Auctions,"Toronto, ON","Analytics Engineer, III",90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+Sonder,"Toronto, ON",BI Engineer,90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Sonder,"Toronto, ON",BI Engineer,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Sonder,"Toronto, ON",BI Engineer,90000
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
+TC Energy,"Calgary, AB",Pipeline Integrity Quantitative Risk Engineer,90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Sonder,"Toronto, ON",BI Engineer,90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON","Analytics Engineer, III",90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Sonder,"Toronto, ON",BI Engineer,90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Toronto Hydro,"Toronto, ON",Capital & Maintenance Program Analyst,90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON","Analytics Engineer, III",90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Sonder,"Toronto, ON",BI Engineer,90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
+Compass Digital Labs,"Mississauga, ON",BI Engineer (Contract),90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Sonder,"Toronto, ON",BI Engineer,90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
+ACV Auctions,"Toronto, ON",Sr. Analytics Engineer,90000
+Toyota Motor Manufacturing Canada,"Cambridge, ON","Engineering Analyst, Customer Satisfaction - Quality Assuran...",90000
+Loblaw Companies Limited,"Brampton, ON","Sr. Analyst, Supply Chain",90000
+Salesforce,Ontario,"Tableau Solution Engineer, Financial Services (French speaki...",90000
+Scotiabank,"Toronto, ON",Platform Engineer (Oracle Business Intelligence & EPM),90000
+Dundas Data Visualization,Canada,BI Solution Engineer - Customer Success,90000
+Deloitte,"Toronto, ON",Analyst/Senior Associate - Financial Engineering and Modelin...,90000
+ecobee,"Toronto, ON",Senior BI Engineer,90000
+CGI Inc,"Montréal, QC",Ingénieur de données Azure/BI,90000
+Deloitte,"Toronto, ON","Manager - Financial Engineering and Modeling, Quantitative R...",90000
+Hollyburn Properties Ltd.,None,Energy Analyst (Contract),90000
